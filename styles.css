@@ -280,7 +280,7 @@ ul {
 }
 
 .project-card {
-    group: relative;
+    position: relative;
 }
 
 .project-image {
